@@ -119,7 +119,8 @@ show databases
 ### 5-2. DB 나가기
 ```
 exit
-#Grafana Installation
+```
+# Grafana Installation
 ## 1. Repository GPG key
 ```
 curl https://bintray.com/user/downloadSubjectPublicKey?username=bintray | sudo apt-key add -
